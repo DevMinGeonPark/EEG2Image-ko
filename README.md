@@ -1,4 +1,8 @@
-## EEG2Image
+## EEG2Image-ko
+
+EEG2Image 모델의 한국어 주석본입니다.
+
+
 <br/>
 
 EEG2IMAGE: Image Reconstruction from EEG Brain Signals [ICASSP 2023]
